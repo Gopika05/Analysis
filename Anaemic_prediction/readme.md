@@ -49,9 +49,8 @@ To build a classification model that predicts **anemia status** (`Yes` or `No`) 
 
 | Model               | Accuracy |
 |---------------------|----------|
-| Logistic Regression | 86%     |
+| Logistic Regression | 86%   ✅ (Best performer)  |
 | Decision Tree       | 85.7%     |
-| **Logistic Regression**   | **86%** ✅ (Best performer)
 
 > Feature importance shows **Hemoglobin** and **Red Pixel %** are the most predictive features.
 
